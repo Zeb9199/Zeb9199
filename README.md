@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Cybersecurity
 - 📫 How to reach me here
 - 😄 Pronouns: zeb
-- ⚡ Fun fact: wanna Hack Githib
+- ⚡ Fun fact: wanna Hack Github
 
 <!---
 Zeb9199/Zeb9199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
